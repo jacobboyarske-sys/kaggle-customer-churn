@@ -4,3 +4,6 @@ kaggle
 matplotlib
 seaborn
 scikit-learn
+catboost
+lightgbm
+shap
